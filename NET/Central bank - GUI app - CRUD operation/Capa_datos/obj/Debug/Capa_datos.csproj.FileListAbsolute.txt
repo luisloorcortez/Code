@@ -1,0 +1,18 @@
+C:\Users\luisl\Desktop\Capa_datos\bin\Debug\Capa_datos.dll
+C:\Users\luisl\Desktop\Capa_datos\bin\Debug\Capa_datos.pdb
+C:\Users\luisl\Desktop\Capa_datos\bin\Debug\Capa_entidad.dll
+C:\Users\luisl\Desktop\Capa_datos\bin\Debug\Capa_entidad.pdb
+C:\Users\luisl\Desktop\Capa_datos\obj\Debug\Capa_datos.csproj.AssemblyReference.cache
+C:\Users\luisl\Desktop\Capa_datos\obj\Debug\Capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Desktop\Capa_datos\obj\Debug\Capa_datos.csproj.CopyComplete
+C:\Users\luisl\Desktop\Capa_datos\obj\Debug\Capa_datos.dll
+C:\Users\luisl\Desktop\Capa_datos\obj\Debug\Capa_datos.pdb
+C:\Users\luisl\Desktop\Central Bancaria\Capa_datos\bin\Debug\Capa_datos.dll
+C:\Users\luisl\Desktop\Central Bancaria\Capa_datos\bin\Debug\Capa_datos.pdb
+C:\Users\luisl\Desktop\Central Bancaria\Capa_datos\bin\Debug\Capa_entidad.dll
+C:\Users\luisl\Desktop\Central Bancaria\Capa_datos\bin\Debug\Capa_entidad.pdb
+C:\Users\luisl\Desktop\Central Bancaria\Capa_datos\obj\Debug\Capa_datos.csproj.AssemblyReference.cache
+C:\Users\luisl\Desktop\Central Bancaria\Capa_datos\obj\Debug\Capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Desktop\Central Bancaria\Capa_datos\obj\Debug\Capa_datos.csproj.CopyComplete
+C:\Users\luisl\Desktop\Central Bancaria\Capa_datos\obj\Debug\Capa_datos.dll
+C:\Users\luisl\Desktop\Central Bancaria\Capa_datos\obj\Debug\Capa_datos.pdb

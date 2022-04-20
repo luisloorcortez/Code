@@ -1,0 +1,15 @@
+D:\Programación\C#\Bucles_Arregos_01\bin\Debug\net6.0\Bucles_Arregos_01.exe
+D:\Programación\C#\Bucles_Arregos_01\bin\Debug\net6.0\Bucles_Arregos_01.deps.json
+D:\Programación\C#\Bucles_Arregos_01\bin\Debug\net6.0\Bucles_Arregos_01.runtimeconfig.json
+D:\Programación\C#\Bucles_Arregos_01\bin\Debug\net6.0\Bucles_Arregos_01.dll
+D:\Programación\C#\Bucles_Arregos_01\bin\Debug\net6.0\ref\Bucles_Arregos_01.dll
+D:\Programación\C#\Bucles_Arregos_01\bin\Debug\net6.0\Bucles_Arregos_01.pdb
+D:\Programación\C#\Bucles_Arregos_01\obj\Debug\net6.0\Bucles_Arregos_01.csproj.AssemblyReference.cache
+D:\Programación\C#\Bucles_Arregos_01\obj\Debug\net6.0\Bucles_Arregos_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\C#\Bucles_Arregos_01\obj\Debug\net6.0\Bucles_Arregos_01.AssemblyInfoInputs.cache
+D:\Programación\C#\Bucles_Arregos_01\obj\Debug\net6.0\Bucles_Arregos_01.AssemblyInfo.cs
+D:\Programación\C#\Bucles_Arregos_01\obj\Debug\net6.0\Bucles_Arregos_01.csproj.CoreCompileInputs.cache
+D:\Programación\C#\Bucles_Arregos_01\obj\Debug\net6.0\Bucles_Arregos_01.dll
+D:\Programación\C#\Bucles_Arregos_01\obj\Debug\net6.0\ref\Bucles_Arregos_01.dll
+D:\Programación\C#\Bucles_Arregos_01\obj\Debug\net6.0\Bucles_Arregos_01.pdb
+D:\Programación\C#\Bucles_Arregos_01\obj\Debug\net6.0\Bucles_Arregos_01.genruntimeconfig.cache

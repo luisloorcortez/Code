@@ -1,0 +1,12 @@
+C:\Users\luisl\Desktop\Capa_entidad\bin\Debug\Capa_entidad.dll
+C:\Users\luisl\Desktop\Capa_entidad\bin\Debug\Capa_entidad.pdb
+C:\Users\luisl\Desktop\Capa_entidad\obj\Debug\Capa_entidad.csproj.AssemblyReference.cache
+C:\Users\luisl\Desktop\Capa_entidad\obj\Debug\Capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Desktop\Capa_entidad\obj\Debug\Capa_entidad.dll
+C:\Users\luisl\Desktop\Capa_entidad\obj\Debug\Capa_entidad.pdb
+C:\Users\luisl\Desktop\Central Bancaria\Capa_entidad\bin\Debug\Capa_entidad.dll
+C:\Users\luisl\Desktop\Central Bancaria\Capa_entidad\bin\Debug\Capa_entidad.pdb
+C:\Users\luisl\Desktop\Central Bancaria\Capa_entidad\obj\Debug\Capa_entidad.csproj.AssemblyReference.cache
+C:\Users\luisl\Desktop\Central Bancaria\Capa_entidad\obj\Debug\Capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Desktop\Central Bancaria\Capa_entidad\obj\Debug\Capa_entidad.dll
+C:\Users\luisl\Desktop\Central Bancaria\Capa_entidad\obj\Debug\Capa_entidad.pdb

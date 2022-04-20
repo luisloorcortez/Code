@@ -1,0 +1,11 @@
+C:\Users\luisl\Documents\repors\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\luisl\Documents\repors\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\luisl\Documents\repors\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.csproj.AssemblyReference.cache
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.Form1.resources
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.csproj.GenerateResource.cache
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.pdb

@@ -1,0 +1,35 @@
+D:\Programación\C#\Estructura_base\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+D:\Programación\C#\Estructura_base\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\C#\Estructura_base\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+D:\Programación\C#\Estructura_base\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+D:\Programación\C#\Estructura_base\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Desktop\Estructura base\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\luisl\Desktop\Estructura base\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisl\Desktop\Estructura base\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\luisl\Desktop\Estructura base\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\luisl\Desktop\Estructura base\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Desktop\Estructura base\bin\Debug\net6.0\Polimorfismo.exe
+C:\Users\luisl\Desktop\Estructura base\bin\Debug\net6.0\Polimorfismo.deps.json
+C:\Users\luisl\Desktop\Estructura base\bin\Debug\net6.0\Polimorfismo.runtimeconfig.json
+C:\Users\luisl\Desktop\Estructura base\bin\Debug\net6.0\Polimorfismo.dll
+C:\Users\luisl\Desktop\Estructura base\bin\Debug\net6.0\ref\Polimorfismo.dll
+C:\Users\luisl\Desktop\Estructura base\bin\Debug\net6.0\Polimorfismo.pdb
+C:\Users\luisl\Desktop\Estructura base\obj\Debug\net6.0\Polimorfismo.dll
+C:\Users\luisl\Desktop\Estructura base\obj\Debug\net6.0\ref\Polimorfismo.dll
+C:\Users\luisl\Desktop\Estructura base\obj\Debug\net6.0\Polimorfismo.pdb
+C:\Users\luisl\Desktop\Estructura base\obj\Debug\net6.0\Polimorfismo.genruntimeconfig.cache
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\bin\Debug\net6.0\Polimorfismo.exe
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\bin\Debug\net6.0\Polimorfismo.deps.json
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\bin\Debug\net6.0\Polimorfismo.runtimeconfig.json
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\bin\Debug\net6.0\Polimorfismo.dll
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\bin\Debug\net6.0\ref\Polimorfismo.dll
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\bin\Debug\net6.0\Polimorfismo.pdb
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\obj\Debug\net6.0\Polimorfismo.dll
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\obj\Debug\net6.0\ref\Polimorfismo.dll
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\obj\Debug\net6.0\Polimorfismo.pdb
+C:\Users\luisl\Desktop\Cálculo de impuesto anual\obj\Debug\net6.0\Polimorfismo.genruntimeconfig.cache

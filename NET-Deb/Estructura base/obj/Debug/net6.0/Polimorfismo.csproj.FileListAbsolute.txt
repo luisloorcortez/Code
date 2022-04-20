@@ -1,0 +1,5 @@
+D:\Programación\C#\Estructura_base\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+D:\Programación\C#\Estructura_base\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\C#\Estructura_base\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+D:\Programación\C#\Estructura_base\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+D:\Programación\C#\Estructura_base\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache

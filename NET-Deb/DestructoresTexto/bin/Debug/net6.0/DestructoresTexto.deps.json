@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DestructoresTexto/1.0.0": {
+        "runtime": {
+          "DestructoresTexto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DestructoresTexto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

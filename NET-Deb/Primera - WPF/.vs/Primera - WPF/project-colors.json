@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75bd143a-896a-49e6-abca-6e61d0940274": {
+      "ProjectGuid": "75bd143a-896a-49e6-abca-6e61d0940274",
+      "DisplayName": "Primera - WPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

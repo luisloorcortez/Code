@@ -1,0 +1,15 @@
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\bin\Debug\net6.0\VerificadorEdadCedula.exe
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\bin\Debug\net6.0\VerificadorEdadCedula.deps.json
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\bin\Debug\net6.0\VerificadorEdadCedula.runtimeconfig.json
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\bin\Debug\net6.0\VerificadorEdadCedula.dll
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\bin\Debug\net6.0\ref\VerificadorEdadCedula.dll
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\bin\Debug\net6.0\VerificadorEdadCedula.pdb
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\obj\Debug\net6.0\VerificadorEdadCedula.csproj.AssemblyReference.cache
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\obj\Debug\net6.0\VerificadorEdadCedula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\obj\Debug\net6.0\VerificadorEdadCedula.AssemblyInfoInputs.cache
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\obj\Debug\net6.0\VerificadorEdadCedula.AssemblyInfo.cs
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\obj\Debug\net6.0\VerificadorEdadCedula.csproj.CoreCompileInputs.cache
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\obj\Debug\net6.0\VerificadorEdadCedula.dll
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\obj\Debug\net6.0\ref\VerificadorEdadCedula.dll
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\obj\Debug\net6.0\VerificadorEdadCedula.pdb
+D:\Programación\C#\EjerciciosC#\VerificadorEdadCedula\obj\Debug\net6.0\VerificadorEdadCedula.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e700c7d1-29da-4a42-8ea9-bbe91cc5471b": {
+      "ProjectGuid": "e700c7d1-29da-4a42-8ea9-bbe91cc5471b",
+      "DisplayName": "Polimorfismo",
+      "ColorIndex": 0
+    },
+    "a419122b-e55e-4027-af72-9b45e56b2605": {
+      "ProjectGuid": "a419122b-e55e-4027-af72-9b45e56b2605",
+      "DisplayName": "Polimorfismo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,30 @@
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/obj/Debug/net6.0/Colección Queue y Enqueue.csproj.AssemblyReference.cache
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/obj/Debug/net6.0/Colección Queue y Enqueue.GeneratedMSBuildEditorConfig.editorconfig
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/obj/Debug/net6.0/Colección Queue y Enqueue.AssemblyInfoInputs.cache
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/obj/Debug/net6.0/Colección Queue y Enqueue.AssemblyInfo.cs
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/obj/Debug/net6.0/Colección Queue y Enqueue.csproj.CoreCompileInputs.cache
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/bin/Debug/net6.0/Colección Queue y Enqueue
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/bin/Debug/net6.0/Colección Queue y Enqueue.deps.json
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/bin/Debug/net6.0/Colección Queue y Enqueue.runtimeconfig.json
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/bin/Debug/net6.0/Colección Queue y Enqueue.dll
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/bin/Debug/net6.0/ref/Colección Queue y Enqueue.dll
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/bin/Debug/net6.0/Colección Queue y Enqueue.pdb
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/obj/Debug/net6.0/Colección Queue y Enqueue.dll
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/obj/Debug/net6.0/ref/Colección Queue y Enqueue.dll
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/obj/Debug/net6.0/Colección Queue y Enqueue.pdb
+/media/scripthead/Programación/C#/Colección Queue y Enqueue/obj/Debug/net6.0/Colección Queue y Enqueue.genruntimeconfig.cache
+/media/scripthead/Programación/C#/Colección Diccionarios/bin/Debug/net6.0/Colección Queue y Enqueue
+/media/scripthead/Programación/C#/Colección Diccionarios/bin/Debug/net6.0/Colección Queue y Enqueue.deps.json
+/media/scripthead/Programación/C#/Colección Diccionarios/bin/Debug/net6.0/Colección Queue y Enqueue.runtimeconfig.json
+/media/scripthead/Programación/C#/Colección Diccionarios/bin/Debug/net6.0/Colección Queue y Enqueue.dll
+/media/scripthead/Programación/C#/Colección Diccionarios/bin/Debug/net6.0/ref/Colección Queue y Enqueue.dll
+/media/scripthead/Programación/C#/Colección Diccionarios/bin/Debug/net6.0/Colección Queue y Enqueue.pdb
+/media/scripthead/Programación/C#/Colección Diccionarios/obj/Debug/net6.0/Colección Queue y Enqueue.csproj.AssemblyReference.cache
+/media/scripthead/Programación/C#/Colección Diccionarios/obj/Debug/net6.0/Colección Queue y Enqueue.GeneratedMSBuildEditorConfig.editorconfig
+/media/scripthead/Programación/C#/Colección Diccionarios/obj/Debug/net6.0/Colección Queue y Enqueue.AssemblyInfoInputs.cache
+/media/scripthead/Programación/C#/Colección Diccionarios/obj/Debug/net6.0/Colección Queue y Enqueue.AssemblyInfo.cs
+/media/scripthead/Programación/C#/Colección Diccionarios/obj/Debug/net6.0/Colección Queue y Enqueue.csproj.CoreCompileInputs.cache
+/media/scripthead/Programación/C#/Colección Diccionarios/obj/Debug/net6.0/Colección Queue y Enqueue.dll
+/media/scripthead/Programación/C#/Colección Diccionarios/obj/Debug/net6.0/ref/Colección Queue y Enqueue.dll
+/media/scripthead/Programación/C#/Colección Diccionarios/obj/Debug/net6.0/Colección Queue y Enqueue.pdb
+/media/scripthead/Programación/C#/Colección Diccionarios/obj/Debug/net6.0/Colección Queue y Enqueue.genruntimeconfig.cache

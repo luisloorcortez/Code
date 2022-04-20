@@ -1,0 +1,15 @@
+L:\Programación\C#\For_and_array\bin\Debug\net6.0\For_and_array.exe
+L:\Programación\C#\For_and_array\bin\Debug\net6.0\For_and_array.deps.json
+L:\Programación\C#\For_and_array\bin\Debug\net6.0\For_and_array.runtimeconfig.json
+L:\Programación\C#\For_and_array\bin\Debug\net6.0\For_and_array.dll
+L:\Programación\C#\For_and_array\bin\Debug\net6.0\ref\For_and_array.dll
+L:\Programación\C#\For_and_array\bin\Debug\net6.0\For_and_array.pdb
+L:\Programación\C#\For_and_array\obj\Debug\net6.0\For_and_array.csproj.AssemblyReference.cache
+L:\Programación\C#\For_and_array\obj\Debug\net6.0\For_and_array.GeneratedMSBuildEditorConfig.editorconfig
+L:\Programación\C#\For_and_array\obj\Debug\net6.0\For_and_array.AssemblyInfoInputs.cache
+L:\Programación\C#\For_and_array\obj\Debug\net6.0\For_and_array.AssemblyInfo.cs
+L:\Programación\C#\For_and_array\obj\Debug\net6.0\For_and_array.csproj.CoreCompileInputs.cache
+L:\Programación\C#\For_and_array\obj\Debug\net6.0\For_and_array.dll
+L:\Programación\C#\For_and_array\obj\Debug\net6.0\ref\For_and_array.dll
+L:\Programación\C#\For_and_array\obj\Debug\net6.0\For_and_array.pdb
+L:\Programación\C#\For_and_array\obj\Debug\net6.0\For_and_array.genruntimeconfig.cache

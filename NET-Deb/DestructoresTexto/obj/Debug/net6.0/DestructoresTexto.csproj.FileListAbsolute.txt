@@ -1,0 +1,15 @@
+D:\Programación\C#\DestructoresTexto\bin\Debug\net6.0\DestructoresTexto.exe
+D:\Programación\C#\DestructoresTexto\bin\Debug\net6.0\DestructoresTexto.deps.json
+D:\Programación\C#\DestructoresTexto\bin\Debug\net6.0\DestructoresTexto.runtimeconfig.json
+D:\Programación\C#\DestructoresTexto\bin\Debug\net6.0\DestructoresTexto.dll
+D:\Programación\C#\DestructoresTexto\bin\Debug\net6.0\ref\DestructoresTexto.dll
+D:\Programación\C#\DestructoresTexto\bin\Debug\net6.0\DestructoresTexto.pdb
+D:\Programación\C#\DestructoresTexto\obj\Debug\net6.0\DestructoresTexto.csproj.AssemblyReference.cache
+D:\Programación\C#\DestructoresTexto\obj\Debug\net6.0\DestructoresTexto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación\C#\DestructoresTexto\obj\Debug\net6.0\DestructoresTexto.AssemblyInfoInputs.cache
+D:\Programación\C#\DestructoresTexto\obj\Debug\net6.0\DestructoresTexto.AssemblyInfo.cs
+D:\Programación\C#\DestructoresTexto\obj\Debug\net6.0\DestructoresTexto.csproj.CoreCompileInputs.cache
+D:\Programación\C#\DestructoresTexto\obj\Debug\net6.0\DestructoresTexto.dll
+D:\Programación\C#\DestructoresTexto\obj\Debug\net6.0\ref\DestructoresTexto.dll
+D:\Programación\C#\DestructoresTexto\obj\Debug\net6.0\DestructoresTexto.pdb
+D:\Programación\C#\DestructoresTexto\obj\Debug\net6.0\DestructoresTexto.genruntimeconfig.cache

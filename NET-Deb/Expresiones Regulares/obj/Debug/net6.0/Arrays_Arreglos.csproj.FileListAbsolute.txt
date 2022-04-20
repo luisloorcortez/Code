@@ -1,0 +1,15 @@
+L:\Programación\C#\Arrays_Arreglos\obj\Debug\net6.0\Arrays_Arreglos.csproj.AssemblyReference.cache
+L:\Programación\C#\Arrays_Arreglos\obj\Debug\net6.0\Arrays_Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+L:\Programación\C#\Arrays_Arreglos\obj\Debug\net6.0\Arrays_Arreglos.AssemblyInfoInputs.cache
+L:\Programación\C#\Arrays_Arreglos\obj\Debug\net6.0\Arrays_Arreglos.AssemblyInfo.cs
+L:\Programación\C#\Arrays_Arreglos\obj\Debug\net6.0\Arrays_Arreglos.csproj.CoreCompileInputs.cache
+L:\Programación\C#\Arrays_Arreglos\bin\Debug\net6.0\Arrays_Arreglos.exe
+L:\Programación\C#\Arrays_Arreglos\bin\Debug\net6.0\Arrays_Arreglos.deps.json
+L:\Programación\C#\Arrays_Arreglos\bin\Debug\net6.0\Arrays_Arreglos.runtimeconfig.json
+L:\Programación\C#\Arrays_Arreglos\bin\Debug\net6.0\Arrays_Arreglos.dll
+L:\Programación\C#\Arrays_Arreglos\bin\Debug\net6.0\ref\Arrays_Arreglos.dll
+L:\Programación\C#\Arrays_Arreglos\bin\Debug\net6.0\Arrays_Arreglos.pdb
+L:\Programación\C#\Arrays_Arreglos\obj\Debug\net6.0\Arrays_Arreglos.dll
+L:\Programación\C#\Arrays_Arreglos\obj\Debug\net6.0\ref\Arrays_Arreglos.dll
+L:\Programación\C#\Arrays_Arreglos\obj\Debug\net6.0\Arrays_Arreglos.pdb
+L:\Programación\C#\Arrays_Arreglos\obj\Debug\net6.0\Arrays_Arreglos.genruntimeconfig.cache

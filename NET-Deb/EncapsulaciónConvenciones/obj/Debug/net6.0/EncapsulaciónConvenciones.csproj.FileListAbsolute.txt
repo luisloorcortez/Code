@@ -1,0 +1,15 @@
+L:\Programación\C#\EncapsulaciónConvenciones\obj\Debug\net6.0\EncapsulaciónConvenciones.csproj.AssemblyReference.cache
+L:\Programación\C#\EncapsulaciónConvenciones\obj\Debug\net6.0\EncapsulaciónConvenciones.GeneratedMSBuildEditorConfig.editorconfig
+L:\Programación\C#\EncapsulaciónConvenciones\obj\Debug\net6.0\EncapsulaciónConvenciones.AssemblyInfoInputs.cache
+L:\Programación\C#\EncapsulaciónConvenciones\obj\Debug\net6.0\EncapsulaciónConvenciones.AssemblyInfo.cs
+L:\Programación\C#\EncapsulaciónConvenciones\obj\Debug\net6.0\EncapsulaciónConvenciones.csproj.CoreCompileInputs.cache
+L:\Programación\C#\EncapsulaciónConvenciones\bin\Debug\net6.0\EncapsulaciónConvenciones.exe
+L:\Programación\C#\EncapsulaciónConvenciones\bin\Debug\net6.0\EncapsulaciónConvenciones.deps.json
+L:\Programación\C#\EncapsulaciónConvenciones\bin\Debug\net6.0\EncapsulaciónConvenciones.runtimeconfig.json
+L:\Programación\C#\EncapsulaciónConvenciones\bin\Debug\net6.0\EncapsulaciónConvenciones.dll
+L:\Programación\C#\EncapsulaciónConvenciones\bin\Debug\net6.0\ref\EncapsulaciónConvenciones.dll
+L:\Programación\C#\EncapsulaciónConvenciones\bin\Debug\net6.0\EncapsulaciónConvenciones.pdb
+L:\Programación\C#\EncapsulaciónConvenciones\obj\Debug\net6.0\EncapsulaciónConvenciones.dll
+L:\Programación\C#\EncapsulaciónConvenciones\obj\Debug\net6.0\ref\EncapsulaciónConvenciones.dll
+L:\Programación\C#\EncapsulaciónConvenciones\obj\Debug\net6.0\EncapsulaciónConvenciones.pdb
+L:\Programación\C#\EncapsulaciónConvenciones\obj\Debug\net6.0\EncapsulaciónConvenciones.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+C:\Users\luisl\Documents\repors\Plantilla\bin\Debug\Plantilla.exe.config
+C:\Users\luisl\Documents\repors\Plantilla\bin\Debug\Plantilla.exe
+C:\Users\luisl\Documents\repors\Plantilla\bin\Debug\Plantilla.pdb
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\ZapateriaMartita.csproj.AssemblyReference.cache
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\ZapateriaMartita.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.Form1.resources
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\ZapateriaMartita.csproj.GenerateResource.cache
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\ZapateriaMartita.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.exe
+C:\Users\luisl\Documents\repors\Plantilla\obj\Debug\Plantilla.pdb
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\bin\Debug\Plantilla.exe.config
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\bin\Debug\Plantilla.exe
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\bin\Debug\Plantilla.pdb
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\obj\Debug\ZapateriaMartita.csproj.AssemblyReference.cache
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\obj\Debug\ZapateriaMartita.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\obj\Debug\Plantilla.Form1.resources
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\obj\Debug\Plantilla.Properties.Resources.resources
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\obj\Debug\ZapateriaMartita.csproj.GenerateResource.cache
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\obj\Debug\ZapateriaMartita.csproj.CoreCompileInputs.cache
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\obj\Debug\Plantilla.exe
+C:\Users\luisl\Desktop\Entregable\Zapatería Martita\obj\Debug\Plantilla.pdb

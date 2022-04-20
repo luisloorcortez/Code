@@ -1,0 +1,15 @@
+L:\Programación\C#\Practica_while_and_doWhile\obj\Debug\net6.0\Practica_while_and_doWhile.csproj.AssemblyReference.cache
+L:\Programación\C#\Practica_while_and_doWhile\obj\Debug\net6.0\Practica_while_and_doWhile.GeneratedMSBuildEditorConfig.editorconfig
+L:\Programación\C#\Practica_while_and_doWhile\obj\Debug\net6.0\Practica_while_and_doWhile.AssemblyInfoInputs.cache
+L:\Programación\C#\Practica_while_and_doWhile\obj\Debug\net6.0\Practica_while_and_doWhile.AssemblyInfo.cs
+L:\Programación\C#\Practica_while_and_doWhile\obj\Debug\net6.0\Practica_while_and_doWhile.csproj.CoreCompileInputs.cache
+L:\Programación\C#\Practica_while_and_doWhile\bin\Debug\net6.0\Practica_while_and_doWhile.exe
+L:\Programación\C#\Practica_while_and_doWhile\bin\Debug\net6.0\Practica_while_and_doWhile.deps.json
+L:\Programación\C#\Practica_while_and_doWhile\bin\Debug\net6.0\Practica_while_and_doWhile.runtimeconfig.json
+L:\Programación\C#\Practica_while_and_doWhile\bin\Debug\net6.0\Practica_while_and_doWhile.dll
+L:\Programación\C#\Practica_while_and_doWhile\bin\Debug\net6.0\ref\Practica_while_and_doWhile.dll
+L:\Programación\C#\Practica_while_and_doWhile\bin\Debug\net6.0\Practica_while_and_doWhile.pdb
+L:\Programación\C#\Practica_while_and_doWhile\obj\Debug\net6.0\Practica_while_and_doWhile.dll
+L:\Programación\C#\Practica_while_and_doWhile\obj\Debug\net6.0\ref\Practica_while_and_doWhile.dll
+L:\Programación\C#\Practica_while_and_doWhile\obj\Debug\net6.0\Practica_while_and_doWhile.pdb
+L:\Programación\C#\Practica_while_and_doWhile\obj\Debug\net6.0\Practica_while_and_doWhile.genruntimeconfig.cache

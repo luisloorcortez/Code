@@ -1,0 +1,15 @@
+L:\Programación\C#\Practica_switch\obj\Debug\net6.0\Practica_switch.csproj.AssemblyReference.cache
+L:\Programación\C#\Practica_switch\obj\Debug\net6.0\Practica_switch.GeneratedMSBuildEditorConfig.editorconfig
+L:\Programación\C#\Practica_switch\obj\Debug\net6.0\Practica_switch.AssemblyInfoInputs.cache
+L:\Programación\C#\Practica_switch\obj\Debug\net6.0\Practica_switch.AssemblyInfo.cs
+L:\Programación\C#\Practica_switch\obj\Debug\net6.0\Practica_switch.csproj.CoreCompileInputs.cache
+L:\Programación\C#\Practica_switch\bin\Debug\net6.0\Practica_switch.exe
+L:\Programación\C#\Practica_switch\bin\Debug\net6.0\Practica_switch.deps.json
+L:\Programación\C#\Practica_switch\bin\Debug\net6.0\Practica_switch.runtimeconfig.json
+L:\Programación\C#\Practica_switch\bin\Debug\net6.0\Practica_switch.dll
+L:\Programación\C#\Practica_switch\bin\Debug\net6.0\ref\Practica_switch.dll
+L:\Programación\C#\Practica_switch\bin\Debug\net6.0\Practica_switch.pdb
+L:\Programación\C#\Practica_switch\obj\Debug\net6.0\Practica_switch.dll
+L:\Programación\C#\Practica_switch\obj\Debug\net6.0\ref\Practica_switch.dll
+L:\Programación\C#\Practica_switch\obj\Debug\net6.0\Practica_switch.pdb
+L:\Programación\C#\Practica_switch\obj\Debug\net6.0\Practica_switch.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programación\C#\CentralBancaria\bin\Debug\CentralBancaria.exe.config
+D:\Programación\C#\CentralBancaria\bin\Debug\CentralBancaria.exe
+D:\Programación\C#\CentralBancaria\bin\Debug\CentralBancaria.pdb
+D:\Programación\C#\CentralBancaria\obj\Debug\CentralBancaria.csproj.AssemblyReference.cache
+D:\Programación\C#\CentralBancaria\obj\Debug\CentralBancaria.csproj.SuggestedBindingRedirects.cache
+D:\Programación\C#\CentralBancaria\obj\Debug\CentralBancaria.csproj.CoreCompileInputs.cache
+D:\Programación\C#\CentralBancaria\obj\Debug\CentralBancaria.exe
+D:\Programación\C#\CentralBancaria\obj\Debug\CentralBancaria.pdb
+D:\Programación\C#\Proyectos C#\CentralBancaria\bin\Debug\CentralBancaria.exe.config
+D:\Programación\C#\Proyectos C#\CentralBancaria\bin\Debug\CentralBancaria.exe
+D:\Programación\C#\Proyectos C#\CentralBancaria\bin\Debug\CentralBancaria.pdb
+D:\Programación\C#\Proyectos C#\CentralBancaria\obj\Debug\CentralBancaria.csproj.AssemblyReference.cache
+D:\Programación\C#\Proyectos C#\CentralBancaria\obj\Debug\CentralBancaria.csproj.SuggestedBindingRedirects.cache
+D:\Programación\C#\Proyectos C#\CentralBancaria\obj\Debug\CentralBancaria.csproj.CoreCompileInputs.cache
+D:\Programación\C#\Proyectos C#\CentralBancaria\obj\Debug\CentralBancaria.exe
+D:\Programación\C#\Proyectos C#\CentralBancaria\obj\Debug\CentralBancaria.pdb

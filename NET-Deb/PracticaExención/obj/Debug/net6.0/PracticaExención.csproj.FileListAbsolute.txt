@@ -1,0 +1,15 @@
+L:\Programación\C#\PracticaExención\obj\Debug\net6.0\PracticaExención.csproj.AssemblyReference.cache
+L:\Programación\C#\PracticaExención\obj\Debug\net6.0\PracticaExención.GeneratedMSBuildEditorConfig.editorconfig
+L:\Programación\C#\PracticaExención\obj\Debug\net6.0\PracticaExención.AssemblyInfoInputs.cache
+L:\Programación\C#\PracticaExención\obj\Debug\net6.0\PracticaExención.AssemblyInfo.cs
+L:\Programación\C#\PracticaExención\obj\Debug\net6.0\PracticaExención.csproj.CoreCompileInputs.cache
+L:\Programación\C#\PracticaExención\bin\Debug\net6.0\PracticaExención.exe
+L:\Programación\C#\PracticaExención\bin\Debug\net6.0\PracticaExención.deps.json
+L:\Programación\C#\PracticaExención\bin\Debug\net6.0\PracticaExención.runtimeconfig.json
+L:\Programación\C#\PracticaExención\bin\Debug\net6.0\PracticaExención.dll
+L:\Programación\C#\PracticaExención\bin\Debug\net6.0\ref\PracticaExención.dll
+L:\Programación\C#\PracticaExención\bin\Debug\net6.0\PracticaExención.pdb
+L:\Programación\C#\PracticaExención\obj\Debug\net6.0\PracticaExención.dll
+L:\Programación\C#\PracticaExención\obj\Debug\net6.0\ref\PracticaExención.dll
+L:\Programación\C#\PracticaExención\obj\Debug\net6.0\PracticaExención.pdb
+L:\Programación\C#\PracticaExención\obj\Debug\net6.0\PracticaExención.genruntimeconfig.cache

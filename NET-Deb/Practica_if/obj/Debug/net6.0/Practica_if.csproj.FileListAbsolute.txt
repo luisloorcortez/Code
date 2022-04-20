@@ -1,0 +1,15 @@
+L:\Programación\C#\Practica_if\bin\Debug\net6.0\Practica_if.exe
+L:\Programación\C#\Practica_if\bin\Debug\net6.0\Practica_if.deps.json
+L:\Programación\C#\Practica_if\bin\Debug\net6.0\Practica_if.runtimeconfig.json
+L:\Programación\C#\Practica_if\bin\Debug\net6.0\Practica_if.dll
+L:\Programación\C#\Practica_if\bin\Debug\net6.0\ref\Practica_if.dll
+L:\Programación\C#\Practica_if\bin\Debug\net6.0\Practica_if.pdb
+L:\Programación\C#\Practica_if\obj\Debug\net6.0\Practica_if.csproj.AssemblyReference.cache
+L:\Programación\C#\Practica_if\obj\Debug\net6.0\Practica_if.GeneratedMSBuildEditorConfig.editorconfig
+L:\Programación\C#\Practica_if\obj\Debug\net6.0\Practica_if.AssemblyInfoInputs.cache
+L:\Programación\C#\Practica_if\obj\Debug\net6.0\Practica_if.AssemblyInfo.cs
+L:\Programación\C#\Practica_if\obj\Debug\net6.0\Practica_if.csproj.CoreCompileInputs.cache
+L:\Programación\C#\Practica_if\obj\Debug\net6.0\Practica_if.dll
+L:\Programación\C#\Practica_if\obj\Debug\net6.0\ref\Practica_if.dll
+L:\Programación\C#\Practica_if\obj\Debug\net6.0\Practica_if.pdb
+L:\Programación\C#\Practica_if\obj\Debug\net6.0\Practica_if.genruntimeconfig.cache
